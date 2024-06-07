@@ -3,7 +3,7 @@ function Home() {
     <>
       <div className="grid place-content-center h-screen">
         <div className="flex mx-auto flex-col cursor-pointer bg-white justify-center py-3 px-3 text-center items-center mt-12 rounded-tl-[35px] rounded-br-[35px] shadow-2xl md:min-h-[200px] w-full card-item-div max-w-screen-md min-h-[100px]">
-          <p className="font-bold text-3xl py-5 px-5 rounded  bg-slate-500">
+          <p className="font-bold text-white text-3xl py-5 px-5 rounded  bg-slate-500">
             အမ်နိုင်းရှမ်းကိုးမီး ကစားရန် အောက်ပါ ခလုတ်ကို နှိပ်ပါ
           </p>
         </div>
